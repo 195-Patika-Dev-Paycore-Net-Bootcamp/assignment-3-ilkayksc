@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatikaPaycoreBootcampHW3", "PatikaPaycoreBootcampHW3\PatikaPaycoreBootcampHW3.csproj", "{D2F68A3B-45A1-4E99-920E-F483759907B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F68A3B-45A1-4E99-920E-F483759907B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F68A3B-45A1-4E99-920E-F483759907B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F68A3B-45A1-4E99-920E-F483759907B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F68A3B-45A1-4E99-920E-F483759907B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7CFA116-9D68-4DE1-9E7D-7AB996572B83}
+	EndGlobalSection
+EndGlobal
